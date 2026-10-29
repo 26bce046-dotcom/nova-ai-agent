@@ -1,0 +1,6 @@
+{
+  "name": "HeliosTandem | Renewable Energy Intelligence",
+  "description": "Interactive scientific intelligence dashboard analyzing the commercial breakthrough of perovskite-silicon tandem solar panels with verified facts, empirical uncertainties, solar physics simulation, and LCOE economics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
